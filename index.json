@@ -1,0 +1,2226 @@
+{
+  "fileCount": 222,
+  "files": [
+    {
+      "filename": "vlasp1c3d-s1-4.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs3d-s1-2.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-3.opus",
+      "note": 51,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-5.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e3d-s1-6.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g3d-s1-1.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs3d-s2-2.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a3u-s1-2.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as3d-s2-2.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4d-s2-5.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1d4d-s2-6.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4d-s3-3.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4d-s3-3.opus",
+      "note": 63,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1f4d-s3-4.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs4d-s3-300.opus",
+      "note": 65,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a4d-s3-6.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as4d-s4-3.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs5d-s4-2.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-1.opus",
+      "note": 75,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-4.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e5d-s4-6.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5d-s4-4.opus",
+      "note": 78,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as5d-s4-3.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c3u-s1-2.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs3u-s1-1.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3u-s1-2.opus",
+      "note": 51,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3u-s1-4.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e3u-s1-1.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3u-s1-5.opus",
+      "note": 54,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3u-s1-5.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g3u-s1-3.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs3u-s2-1.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a3u-s1-4.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as3u-s2-3.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3u-s2-3.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4u-s2-3.opus",
+      "note": 61,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4u-s2-3.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1d4u-s2-4.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4u-s3-1.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e4u-s2-3.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1f4u-s3-1.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs4u-s3-100.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4u-s3-3.opus",
+      "note": 68,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4u-s3-3.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a4u-s3-3.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as4u-s4-1.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b4u-s3-2.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5u-s4-1.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs5u-s4-2.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5u-s4-5.opus",
+      "note": 75,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5u-s4-5.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e5u-s4-5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5u-s4-4.opus",
+      "note": 78,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5u-s4-4.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5u-s4-1.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5u-s4-3.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5u-s4-4.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as5u-s4-4.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6u-s4-3.opus",
+      "note": 84,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6u-s4-3.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c3d-s1-4.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs3u-s1-1.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-3.opus",
+      "note": 51,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3u-s1-4.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e3d-s1-6.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3u-s1-5.opus",
+      "note": 54,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g3u-s1-3.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs3d-s2-2.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a3u-s1-4.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as3d-s2-2.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3u-s2-3.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4u-s2-3.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1d4d-s2-6.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4u-s3-1.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e4d-s2-5.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1f4u-s3-1.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs4d-s3-300.opus",
+      "note": 65,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4u-s3-3.opus",
+      "note": 68,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a4u-s3-3.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as4d-s4-3.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b4u-s3-2.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs5u-s4-2.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-1.opus",
+      "note": 75,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5u-s4-5.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e5d-s4-6.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5u-s4-4.opus",
+      "note": 78,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5u-s4-1.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5u-s4-4.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as5d-s4-3.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6u-s4-3.opus",
+      "note": 84,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c3u-s1-2.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs3d-s1-2.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3u-s1-2.opus",
+      "note": 51,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-5.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e3u-s1-1.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3u-s1-5.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g3d-s1-1.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs3u-s2-1.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a3u-s1-2.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as3u-s2-3.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4u-s2-3.opus",
+      "note": 61,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4d-s2-5.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1d4u-s2-4.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4d-s3-3.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e4u-s2-3.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1f4d-s3-4.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs4u-s3-100.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4u-s3-3.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a4d-s3-6.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as4u-s4-1.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5u-s4-1.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs5d-s4-2.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5u-s4-5.opus",
+      "note": 75,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-4.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e5u-s4-5.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5d-s4-4.opus",
+      "note": 78,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5u-s4-4.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5u-s4-3.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as5u-s4-4.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6u-s4-3.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c3d-s1-4.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs3d-s1-2.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-3.opus",
+      "note": 51,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-5.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e3d-s1-6.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g3d-s1-1.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs3d-s2-2.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a3u-s1-2.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as3d-s2-2.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4d-s2-5.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1d4d-s2-6.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4d-s3-3.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e4d-s2-5.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1f4d-s3-4.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs4d-s3-300.opus",
+      "note": 65,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a4d-s3-6.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as4d-s4-3.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs5d-s4-2.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-1.opus",
+      "note": 75,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-4.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e5d-s4-6.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5d-s4-4.opus",
+      "note": 78,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as5d-s4-3.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c3d-s1-4.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs3d-s1-2.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-3.opus",
+      "note": 51,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds3d-s1-5.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e3d-s1-6.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs3d-s1-3.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g3d-s1-1.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs3d-s2-2.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a3u-s1-2.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as3d-s2-2.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1b3d-s2-2.opus",
+      "note": 59,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs4d-s2-5.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1d4d-s2-6.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4d-s3-3.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds4d-s3-3.opus",
+      "note": 63,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1f4d-s3-4.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs4d-s3-300.opus",
+      "note": 65,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1gs4d-s3-7.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a4d-s3-6.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as4d-s4-3.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c5d-s4-2.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1cs5d-s4-2.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-1.opus",
+      "note": 75,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1ds5d-s4-4.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1e5d-s4-6.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1fs5d-s4-4.opus",
+      "note": 78,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1g5d-s4-1.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1a5d-s4-2.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1as5d-s4-3.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "vlasp1c6d-s4-6.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    }
+  ],
+  "generatedAt": "2026-07-28T06:08:02Z"
+}
