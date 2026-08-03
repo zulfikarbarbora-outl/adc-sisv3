@@ -1,15 +1,13 @@
-# Sonic Implants Violas Violas Spiccato — Opus 48k Previews
+# Audio Data Collection
 
-Sonic Implants Symphonic String Collection — violas Violas Spiccato. Recorded at Sonic Temple studio, MA (2002). CC0-1.0 (public domain). Sourced from archive.org.
+Audio files in Opus 48k format with metadata index.
 
-## Source
-- Original: https://archive.org/details/sonic-implants-symphonic-string-collection
-- License: CC0-1.0
-- Author: Sonic Implants (Sonic Network, Inc.)
+## Contents
 
-## Files
-- 222 Opus 48k VBR audio files
-- `index.json`
+- `index.json` — metadata index
+- `*.opus` — audio files
+- `validate.py` — validation script
 
-## Sourced by
-`tools/gig_to_sldf_v3.py` on 2026-07-28
+## License
+
+CC0-1.0 / Public Domain
